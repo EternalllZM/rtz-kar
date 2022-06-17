@@ -77,7 +77,7 @@ Download the Gecko Codes by following instructions below:
 
 **Kirby Air Ride Hack Pack**
 
-`Right Click Me > Save Linked As`_
+`Right Click Me > Save Link As`_
 
 **Kirby Air Ride**
 
@@ -87,9 +87,9 @@ Download the Gecko Codes by following instructions below:
 
 `You know the drill.`_
 
-.. _`Right Click Me > Save Linked File`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/KHPE01.ini
+.. _`Right Click Me > Save Link As`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/KHPE01.ini
 
-.. _`Right Click This > Save Linked File`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/GKYE01.ini
+.. _`Right Click This > Save Link As`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/GKYE01.ini
 
 .. _`You know the drill.`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/modifier_guide.txt
 
