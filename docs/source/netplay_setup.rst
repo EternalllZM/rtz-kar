@@ -60,6 +60,8 @@ Right Click Game > Properties > Gecko Codes Tab
 
     .. image::  /media/netplay_setup/ns-gecko_codes.png
 
+.. _`Dolphin Setup`: https://kirbyairri.de/en/latest/dolphin_setup.html
+
 - **Fullscreen Codes**
 
 You will set fullscreen codes corresponding to your GCN controller port as shown above.
