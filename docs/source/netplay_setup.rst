@@ -1,65 +1,74 @@
 =============
-Dolphin Setup
+NetPlay Setup
 =============
 
-Using Dolphin to netplay is simple. However, you will want to follow this documentation closely in order to avoid issues that may arise. 
-Please take careful note of any important, warning, note, etc. boxes that refer to the most common mistakes or issues that may happen.
+Now that your Dolphin is ready for playing the game, we can move forward with hosting/connecting to NetPlay sessions.
 
-Downloading Dolphin
-------------
-.. important::
+.. warning::
     
-    `Always use the latest beta build of Dolphin.`
-
-- **Download the latest Dolphin Beta**
-
-The `latest Dolphin Emu Beta`_ includes bug fixes, performance enhancements, and other improvements to streamline your Netplay process. 
-It is also supported by the Dolphin developers should you run into any issues, *unlike Slippi or other FM variants.*
-
-.. _`latest Dolphin Emu Beta`: https://dolphin-emu.org/download/
-
-- **Recommended Settings for Dolphin**
-
-It is recommended you enable/disable the following settings:
-
-Settings
-.. prompt:: cfg
-
-    GENERAL:
-    Enable Cheats = ON
-    Auto Update = ON (BETA)
-
-    INTERFACE:
-    Show On-Screen Display Messages = ON
-
-Graphics
-.. prompt:: cfg
-
-    GENERAL:
-    Show FPS = ON
-    Show NetPlay Ping = ON
-
-NetPlay
+    `Ensure you use a wired (Ethernet) connection for NetPlay. Wireless (Wi-Fi) connections are unstable and may cause issues of lag and instability.`
 
 .. note::
     
-    `These are configured in the NetPlay window. Right click a game > Host with NetPlay to access the settings.`
+    `NetPlay browser setup is not covered in this guide, as there is already documentation via Dolphin on how to configure this. 
+    However, you may use this option if you know how to.`
 
-.. prompt:: cfg
+Hosting NetPlay
+---------------
 
-    DATA (Top Left Menu Bar):
-    Sync Saves = OFF
-    Sync AR/Gecko Codes = OFF
+- **Host with Netplay**
 
-    NETWORK
-    Fair Input Delay = ON
+Right Click > Host with NetPlay
 
-- **Getting the Game**
+    .. image::  /media/netplay_setup/ns-host_with_netplay.png
 
-The `Kirby Air Ride Hack Pack`_ is the version used for NetPlay. It includes various imporvements that can be viewed `on this page`_
 
-.. _`Kirby Air Ride Hack Pack`: https://mega.nz/file/IyIl2J4A#GagWAl2cn_jpSdBGqq3u7AkF7bPkR6BEzZw5v5C4Z6U
 
-.. _`on this page`: 
+- **Verify and Copy Information**
 
-Everything is now set. You can now look forward to hosting or connecting to a NetPlay session without trouble.
+Verify you are hosting Kirby Air Ride Hack Pack > Copy Room ID > Ensure Dolphin Revisions match.
+
+    .. image::  /media/netplay_setup/ns-host_with_netplay2.png
+    
+- **Finalize Setup**
+
+Provide the code to your NetPlay partner so that they are able to connect. After this, you will set your buffer. 
+There is no formula for buffer that you should follow. Simply raise it until a smooth 60FPS gameplay is achieved.
+
+.. important::
+    
+    `Ensure you are setting up your Gecko Codes, located at the bottom of the page.`
+
+Connecting NetPlay
+------------------
+
+- **Connect to Netplay**
+
+Tools > Connect with Netplay *OR* Browse NetPlay sessions
+
+    .. image::  /media/netplay_setup/ns-connect_with_netplay2.png
+
+- **Traversal Connection**
+
+Connection Type Traversal > Input Code received from Host
+
+    .. image::  /media/netplay_setup/ns-connect_with_netplay2.png
+
+Configuring Gecko Codes
+-----------------------
+
+- **Accessing Gecko Codes**
+
+Previously covered in the `Dolphin Setup`_, you will navigate to the Gecko Codes and ensure your Fullscreen codes are enabled.
+
+Right Click Game > Properties > Gecko Codes Tab
+
+    .. image::  /media/netplay_setup/ns-gecko_codes.png
+
+- **Fullscreen Codes**
+
+You will set fullscreen codes corresponding to your GCN controller port as shown above.
+
+.. note::
+    
+    `Fullscreen codes will cause a desync that is not game-breaking. This desync can be ignored unless players are erratically moving or stuck on walls.`

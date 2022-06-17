@@ -23,7 +23,8 @@ It is also supported by the Dolphin developers should you run into any issues, *
 It is recommended you enable/disable the following settings:
 
 Settings
-.. prompt:: cfg
+
+.. prompt::
 
     GENERAL:
     Enable Cheats = ON
@@ -33,7 +34,8 @@ Settings
     Show On-Screen Display Messages = ON
 
 Graphics
-.. prompt:: cfg
+
+.. prompt::
 
     GENERAL:
     Show FPS = ON
@@ -45,14 +47,15 @@ NetPlay
     
     `These are configured in the NetPlay window. Right click a game > Host with NetPlay to access the settings.`
 
-.. prompt:: cfg
+.. prompt::
 
     DATA (Top Left Menu Bar):
     Sync Saves = OFF
     Sync AR/Gecko Codes = OFF
-
     NETWORK
     Fair Input Delay = ON
+
+After all these steps, you will set up your controller to inferface with the game.
 
 - **Getting the Game**
 

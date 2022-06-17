@@ -1,7 +1,7 @@
-Call of Duty Zombies Discord Documentation
-===================================
+Kirby Air Ride NetPlay Documentation
+====================================
 
-This page serves as an index for documentation related to our Discord.
+This page serves as an index for documentation in getting NetPlay and the Hack Pack running.
 
 Setup
 --------
