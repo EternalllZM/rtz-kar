@@ -2,20 +2,23 @@
 Dolphin Setup
 =============
 
-Using Dolphin to netplay is simple. However, you will want to follow this documentation closely in order to avoid issues that may arise. 
+Follow this documentation closely in order to avoid issues that may arise. 
 Please take careful note of any important, warning, note, etc. boxes that refer to the most common mistakes or issues that may happen.
 
 Configuring Dolphin
 -------------------
 .. important::
-    :ref:`Always use the latest beta build of Dolphin.`
+    :ref:`Always use the latest beta build of Dolphin for NetPlay.`
 
 - **Download the latest Dolphin Beta**
 
-The `latest Dolphin Emu Beta`_ includes bug fixes, performance enhancements, and other improvements to streamline your Netplay process. 
-It is also supported by the Dolphin developers should you run into any issues, *unlike Slippi or other FM variants.*
+The `latest Dolphin Emulator Beta`_ includes bug fixes, performance enhancements, and other improvements to streamline your Netplay process. 
+It is also supported by the Dolphin developers should you run into any issues, unlike *Slippi* or other *Faster Melee variants*.
 
-.. _`latest Dolphin Emu Beta`: https://dolphin-emu.org/download/
+.. warning::
+    :ref:`Do not use any variants of Slippi or FM. The project maintainer for Slippi has made it clear they do not want any other games being used for good reason.`
+
+.. _`latest Dolphin Emulator Beta`: https://dolphin-emu.org/download/
 
 - **Recommended Settings for Dolphin**
 
@@ -42,9 +45,6 @@ Graphics
 
 NetPlay
 
-.. note::
-    :ref:`These are configured in the NetPlay window. Right click a game > Host with NetPlay to access the settings.`
-
 ::
 
     DATA (Top Left Menu Bar):
@@ -53,7 +53,10 @@ NetPlay
     NETWORK
     Fair Input Delay = ON
 
-After all these steps, you will set up your controller to inferface with the game.
+.. note::
+    :ref:`Right click game > Host with NetPlay to access the NetPlay settings.`
+
+After all these steps, you will set up your controller to inferface with the game under the Controllers option.
 
 Configuring the Game
 --------------------
@@ -64,7 +67,7 @@ The `Kirby Air Ride Hack Pack`_ is the version used for NetPlay. It includes var
 
 .. _`Kirby Air Ride Hack Pack`: https://mega.nz/file/IyIl2J4A#GagWAl2cn_jpSdBGqq3u7AkF7bPkR6BEzZw5v5C4Z6U
 
-.. _`on this page`: 
+.. _`on this page`: https://kirbyairri.de/en/latest/hack_pack_features.html
 
 - **Importing Gecko Codes**
 
