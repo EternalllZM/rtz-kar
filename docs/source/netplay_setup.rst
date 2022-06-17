@@ -5,12 +5,10 @@ NetPlay Setup
 Now that your Dolphin is ready for playing the game, we can move forward with hosting/connecting to NetPlay sessions.
 
 .. warning::
-    
-    `Ensure you use a wired (Ethernet) connection for NetPlay. Wireless (Wi-Fi) connections are unstable and may cause issues of lag and instability.`
+    :ref:`Ensure you use a wired (Ethernet) connection for NetPlay. Wireless (Wi-Fi) connections are unstable and may cause issues of lag and instability.`
 
 .. note::
-    
-    `NetPlay browser setup is not covered in this guide, as there is already documentation via Dolphin on how to configure this. 
+    :ref:`NetPlay browser setup is not covered in this guide, as there is already documentation via Dolphin on how to configure this. 
     However, you may use this option if you know how to.`
 
 Hosting NetPlay
@@ -36,8 +34,7 @@ Provide the code to your NetPlay partner so that they are able to connect. After
 There is no formula for buffer that you should follow. Simply raise it until a smooth 60FPS gameplay is achieved.
 
 .. important::
-    
-    `Ensure you are setting up your Gecko Codes, located at the bottom of the page.`
+    :ref:`Ensure you are setting up your Gecko Codes, located at the bottom of the page.`
 
 Connecting NetPlay
 ------------------
@@ -70,5 +67,4 @@ Right Click Game > Properties > Gecko Codes Tab
 You will set fullscreen codes corresponding to your GCN controller port as shown above.
 
 .. note::
-    
-    `Fullscreen codes will cause a desync that is not game-breaking. This desync can be ignored unless players are erratically moving or stuck on walls.`
+    :ref:`Fullscreen codes will cause a desync that is not game-breaking. This desync can be ignored unless players are erratically moving or stuck on walls.`
