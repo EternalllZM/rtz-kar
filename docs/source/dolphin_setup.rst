@@ -93,4 +93,6 @@ Download the Gecko Codes by following instructions below:
 
 .. _`You know the drill.`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/modifier_guide.txt
 
+Place these files into your **User/Gamesettings** or **Sys/Gamesettings** Dolphin directory folder depending on whether you are using a portable install.
+
 Everything is now set. You can now look forward to hosting or connecting to a NetPlay session without trouble.
