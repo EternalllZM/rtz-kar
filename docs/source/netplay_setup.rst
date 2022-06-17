@@ -20,8 +20,6 @@ Right Click > Host with NetPlay
 
     .. image::  /media/netplay_setup/ns-host_with_netplay.png
 
-
-
 - **Verify and Copy Information**
 
 Verify you are hosting Kirby Air Ride Hack Pack > Copy Room ID > Ensure Dolphin Revisions match.
