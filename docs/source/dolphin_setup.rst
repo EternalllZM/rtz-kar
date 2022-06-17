@@ -72,15 +72,15 @@ You will import Gecko Codes in order to provide over 200+ Gecko Codes and defaul
 
 Download the Gecko Codes by following instructions below:
 
-*Kirby Air Ride Hack Pack*
+**Kirby Air Ride Hack Pack**
 
-`Right Click Me > Save Linked File`_
+`Right Click Me > Save Linked As`_
 
-*Kirby Air Ride*
+**Kirby Air Ride**
 
-`Right Click This > Save Linked File`_
+`Right Click This > Save Link As`_
 
-*Gecko Code Modifier Guide*
+**Gecko Code Modifier Guide**
 
 `You know the drill.`_
 

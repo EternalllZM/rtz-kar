@@ -8,7 +8,7 @@ A big thanks to all who contributed to the ground work in getting Kirby Air Ride
 
 - **Website Admin & Guide Author**
 
-Eternalll
+• `Eternalll`_
 
 - **Hack Pack Creator**
 
@@ -27,6 +27,8 @@ Eternalll
 
 • A_Y
 • `perry1853108`_
+
+.. _`Eternalll`: https://github.com/EternalllZM/
 
 .. _`UnclePunch`: https://twitter.com/UnclePunch_
 
