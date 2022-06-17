@@ -41,7 +41,8 @@ Desyncs are normal as caused by Fullscreen codes
 .. note::
     :ref:`This desync should notify during the start of City Trial, or a higher frame than 1000.`
 
-If players are moving erratically, an actual desync has occurred.
+.. warning::
+    :ref:`If players are moving erratically, an actual desync has occurred.`
 
 Ensure MD5 hash and Gecko Codes are the same (except Fullscreen), and that you are not syncing memory cards or codes in the NetPlay settings.
 

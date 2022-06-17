@@ -5,8 +5,8 @@ Dolphin Setup
 Using Dolphin to netplay is simple. However, you will want to follow this documentation closely in order to avoid issues that may arise. 
 Please take careful note of any important, warning, note, etc. boxes that refer to the most common mistakes or issues that may happen.
 
-Downloading and Configuring Dolphin
------------------------------------
+Configuring Dolphin
+-------------------
 .. important::
     :ref:`Always use the latest beta build of Dolphin.`
 
@@ -70,8 +70,24 @@ The `Kirby Air Ride Hack Pack`_ is the version used for NetPlay. It includes var
 
 You will import Gecko Codes in order to provide over 200+ Gecko Codes and default-enabled NetPlay-based codes.
 
-Download the `Gecko Codes here`_.
+Download the Gecko Codes by following instructions below:
 
-.. _`Gecko Codes here`: 
+*Kirby Air Ride Hack Pack*
+
+`Right Click Me > Save Linked File`_
+
+*Kirby Air Ride*
+
+`Right Click This > Save Linked File`_
+
+*Gecko Code Modifier Guide*
+
+`You know the drill.`_
+
+.. _`Right Click Me > Save Linked File`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/KHPE01.ini
+
+.. _`Right Click This > Save Linked File`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/GKYE01.ini
+
+.. _`You know the drill.`: https://raw.githubusercontent.com/EternalllZM/rtd-kar/main/docs/source/media/gecko_codes/modifier_guide.txt
 
 Everything is now set. You can now look forward to hosting or connecting to a NetPlay session without trouble.

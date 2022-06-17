@@ -18,3 +18,4 @@ Troubleshooting and Information
 
    hack_pack_features
    troubleshooting
+   credits
