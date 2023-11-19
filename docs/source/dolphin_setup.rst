@@ -7,7 +7,8 @@ Configuring Dolphin
 .. important::
     :ref:`Always use the latest beta build of Dolphin for NetPlay.`
 
-- **Download the latest Dolphin Beta**
+Download the latest Dolphin Beta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The `latest Dolphin Emulator Beta`_ includes bug fixes, performance enhancements, and other improvements to streamline your Netplay process. 
 It is also supported by the Dolphin developers should you run into any issues, unlike *Slippi* or other *Faster Melee variants*.
@@ -17,7 +18,8 @@ It is also supported by the Dolphin developers should you run into any issues, u
 
 .. _`latest Dolphin Emulator Beta`: https://dolphin-emu.org/download/
 
-- **Recommended Settings for Dolphin**
+Recommended Settings for Dolphin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 It is recommended you enable/disable the following settings:
 
@@ -59,7 +61,8 @@ After all these steps, you will set up your controller to inferface with the gam
 Configuring the Game
 --------------------
 
-- **Getting the Game**
+Getting the Game
+^^^^^^^^^^^^^^^^
 
 The `Kirby Air Ride Hack Pack`_ is the version used for NetPlay. It includes various improvements that can be viewed `on this page`_
 
@@ -67,11 +70,10 @@ The `Kirby Air Ride Hack Pack`_ is the version used for NetPlay. It includes var
 
 .. _`on this page`: https://kirbyairri.de/en/latest/hack_pack_features.html
 
-- **Importing Gecko Codes**
+Importing Gecko Codes
+^^^^^^^^^^^^^^^^^^^^^
 
-You will import Gecko Codes in order to provide over 200+ Gecko Codes and default-enabled NetPlay-based codes.
-
-Download the Gecko Codes by following instructions below:
+You will import Gecko Codes in order to provide over 200+ Gecko Codes and default-enabled NetPlay-based codes. Download the Gecko Codes by following instructions below:
 
 **Kirby Air Ride Hack Pack**
 
@@ -94,6 +96,6 @@ Download the Gecko Codes by following instructions below:
 Place these files into your **User/Gamesettings** or **Sys/Gamesettings** Dolphin directory folder, depending on whether you are using a portable install.
 
 .. hint::
-    :ref:`A portable install will have User/Gamesettings.`
+    :ref:`A portable install will use User/Gamesettings.`
 
-Everything is now set. You can now look forward to hosting or connecting to a NetPlay session without trouble.
+Everything is now set. Continue on in this guide to host/connect to a netplay session.

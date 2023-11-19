@@ -15,7 +15,8 @@ To access the Hack Pack menu, select Debug option on the main menu, where LAN pr
 
     .. image::  /media/hack_pack/hp-menu_select.png
 
-- **Debug Menu Functionality**
+Debug Menu Functionality
+------------------------
 
 Debug level controls the menu accessibility. Any value not \"0\" activates the debug menu. 
 This guide does not cover the debug menu functionality. Those options can be `viewed on TCRF's website`_.
