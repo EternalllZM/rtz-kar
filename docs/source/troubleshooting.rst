@@ -10,23 +10,24 @@ This page lists all common issues regarding the Hack Pack and/or NetPlay session
 Hack Pack Troubleshooting
 -------------------------
 
-- **Missing or Blank Textures**
+Missing or Blank Textures
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Verify that you are using the latest Beta instead of a random build.
+- Verify that you are using the latest Beta instead of a random build.
 
-Change your graphical settings to a different backend such as Vulkan or OpenGL.
+- Change your graphical settings to a different backend such as Vulkan or OpenGL.
 
-Ensure LAN adapter is not enabled if you are attempting to access the Debug menu.
-
-
-- **Controller not Working**
-
-Ensure you have setup your controller on the newly downloaded build.
-
-If issue still occurring, your problem exists with controller or other software not related to netplay build.
+- Ensure LAN adapter is not enabled if you are attempting to access the Debug menu.
 
 
-- **Changing Music crashes Console**
+Controller not Working
+^^^^^^^^^^^^^^^^^^^^^^
+
+Firstly, verify that you have configured your controller correctly within the newly downloaded build. If the issue persists, it's likely related to your controller or other software unrelated to the scope of this guide.
+
+
+Changing Music crashes Console
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This feature is only available to the Dolphin Emulator version of the game.
 
@@ -34,7 +35,8 @@ This feature is only available to the Dolphin Emulator version of the game.
 NetPlay Troubleshooting
 -----------------------
 
-- **Desync Issues**
+Desync Issues
+^^^^^^^^^^^^^
 
 Desyncs are normal as caused by Fullscreen codes
 
@@ -47,16 +49,19 @@ Desyncs are normal as caused by Fullscreen codes
 Ensure MD5 hash and Gecko Codes are the same (except Fullscreen), and that you are not syncing memory cards or codes in the NetPlay settings.
 
 
-- **Blank Screen or Seeing Wrong Camera**
+Blank Screen or Seeing Wrong Camera
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Fullscreen codes are likely wrong. Ensure your Fullscreen code corresponds to the proper port. If you are intending to split-screen play, disable all Fullscreen codes.
-
-
-- **Gameplay Lag**
-
-Ensure a wired connection is being used. Furthermore, raise the buffer until a stable 60FPS gameplay is achieved.
+It's probable that the Fullscreen codes might be incorrect. Make sure that your Fullscreen code aligns with the correct port. If you're planning to engage in split-screen play, Deactivate all Fullscreen codes to avoid this complication.
 
 
-- **Game Missing**
+Gameplay Lag
+^^^^^^^^^^^^
 
-Use MD5 matching to ensure a non-corrupt and correct version of the game is being used.
+Make sure you're using a wired connection for optimal performance. Additionally, gradually increase the buffer value until you attain a consistent and stable 60 frames per second (FPS) gameplay experience.
+
+
+Game Missing
+^^^^^^^^^^^^
+
+Use the MD5 matching function in the netplay lobby to ensure a non-corrupt and correct version of the game is being used (hashes must match).

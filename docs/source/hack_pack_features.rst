@@ -2,7 +2,9 @@
 Hack Pack Features
 ==================
 
-The Kirby Air Ride Hack Pack was developed by `UnclePunch`_ in 2017 and includes many improvements to the base game, and creates optimizations for NetPlay.
+The Kirby Air Ride Hack Pack, developed by UnclePunch_, was released in 2017. This mod brings numerous enhancements to the base game and implements optimizations specifically designed for NetPlay.
+
+.. _`UnclePunch`: https://twitter.com/unclepunch_
 
 .. note::
     :ref:`The Hack Pack is no longer developed. What you see is what you get.`
