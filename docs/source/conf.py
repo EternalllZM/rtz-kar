@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Kirby Air Ride'
-copyright = '2022, Eternalll'
+copyright = '2022-present, Eternalll'
 author = 'Eternalll'
 
 release = '1.0'
